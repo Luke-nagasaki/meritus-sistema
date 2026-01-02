@@ -1,0 +1,42 @@
+# Arquivos de configuração
+config/database.php
+.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+error.log
+access.log
+
+# Uploads
+uploads/
+temp/
+cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# PHP
+vendor/
+composer.lock
+
+# Banco de dados
+*.sql.backup
+*.db.backup
+
+# Imagens placeholder (substituir depois)
+assets/img/default-avatar.png
+assets/img/logo.png
+assets/img/banner.jpg
+assets/img/unidades/*.png
