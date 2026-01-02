@@ -117,13 +117,7 @@ meritus/
 
 ### 4. Acesso Inicial
 
-- **URL**: `http://seu-dominio/meritus/`
-- **Usuários Padrão**:
-  - **Diretor**: admin@meritus.com / admin123
-  - **Secretaria**: secretaria@meritus.com / admin123
-  - **Conselheiro**: conselheiro@meritus.com / admin123
-  - **Instrutor**: instrutor@meritus.com / admin123
-  - **Monitor**: monitor@meritus.com / admin123
+
 
 ## 👥 Cargos e Permissões
 
